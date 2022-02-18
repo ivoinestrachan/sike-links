@@ -42,6 +42,11 @@ const Social = () => {
         <FaDiscord className={styles.icon}/>
         </a>
             </div>
+        <div className={styles.hand}>
+            <div className={styles.wave}>
+            👋🏾
+            </div>
+            </div>
         </div>
     );
 }

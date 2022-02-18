@@ -1,0 +1,30 @@
+.container{
+    padding-top: 50px;
+}
+
+.web{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 5px;
+    height: 40px;
+    cursor: pointer;
+    padding-top: 25px;
+    text-decoration: none;
+}
+
+.web:hover{
+    opacity: 0.5;
+}
+a:link{
+text-decoration: none;
+}
+
+@media only screen and (max-width: 1200px){
+    .web{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
