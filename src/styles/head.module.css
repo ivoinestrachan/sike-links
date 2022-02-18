@@ -1,0 +1,35 @@
+.container{
+    padding-top: 50px;
+}
+
+.logo{
+    justify-content: center;
+    text-align: center;
+}
+.name{
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    align-items: center;
+}
+.verify{
+    color: blue;
+    align-items: center;
+   
+}
+.dev{
+    justify-content: center;
+    text-align: center;
+    line-height: 1.5;
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 500;
+}
+
+.container{
+    overflow-x: hidden;
+}
