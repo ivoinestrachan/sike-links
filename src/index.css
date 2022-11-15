@@ -12,6 +12,9 @@ background-size: cover;
 height: 100px;
 }
 
+a{
+  text-decoration: none;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
