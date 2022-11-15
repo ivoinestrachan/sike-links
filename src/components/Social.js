@@ -13,7 +13,7 @@ const Social = () => {
               href="https://www.instagram.com/ivoinetech/"
               rel="noreferrer"
               target="_blank"
-              style={{ color: "black" }}
+              style={{ color: "yellow" }}
             >
         <FaInstagram  className={styles.icon}/>
         </a>
@@ -21,7 +21,7 @@ const Social = () => {
               href="https://github.com/sikethedev"
               rel="noreferrer"
               target="_blank"
-              style={{ color: "black" }}
+              style={{ color: "yellow" }}
             >
         <FaGithub className={styles.icon}/>
         </a>
@@ -29,7 +29,7 @@ const Social = () => {
               href="https://www.linkedin.com/in/ivoine-strachan-92a902216/"
               rel="noreferrer"
               target="_blank"
-              style={{ color: "black" }}
+              style={{ color: "yellow" }}
             >
         <FaLinkedin className={styles.icon}/>
         </a>
@@ -37,7 +37,7 @@ const Social = () => {
               href="https://discordapp.com/users/505373999904194560"
               rel="noreferrer"
               target="_blank"
-              style={{ color: "black" }}
+              style={{ color: "yellow" }}
             >
         <FaDiscord className={styles.icon}/>
         </a>
