@@ -14,6 +14,7 @@ const Head = () => {
          <div className={styles.dev}>
              I am a developer!
          </div>
+<div className={styles.friends}>Make sure to Join <span><a href='https://www.urbancirclesf.com/'>@urbansf</a></span></div>
         </div>
     );
 }
